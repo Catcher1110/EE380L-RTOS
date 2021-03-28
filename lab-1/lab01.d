@@ -1,0 +1,12 @@
+.\lab01.o: Lab01.c
+.\lab01.o: C:\Keil\ARM\ARMCC\bin\..\include\stdio.h
+.\lab01.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\lab01.o: ST7735.h
+.\lab01.o: PLL.h
+.\lab01.o: ..//inc/tm4c123gh6pm.h
+.\lab01.o: UART.h
+.\lab01.o: Timer2.h
+.\lab01.o: ADC.h
+.\lab01.o: OS.h
+.\lab01.o: ADCSWTrigger.h
+.\lab01.o: C:\Keil\ARM\ARMCC\bin\..\include\stdlib.h

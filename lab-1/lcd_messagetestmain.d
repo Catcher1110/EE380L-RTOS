@@ -1,0 +1,12 @@
+.\lcd_messagetestmain.o: LCD_MessageTestMain.c
+.\lcd_messagetestmain.o: C:\Keil\ARM\ARMCC\bin\..\include\stdio.h
+.\lcd_messagetestmain.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\lcd_messagetestmain.o: ST7735.h
+.\lcd_messagetestmain.o: PLL.h
+.\lcd_messagetestmain.o: ..//inc/tm4c123gh6pm.h
+.\lcd_messagetestmain.o: UART.h
+.\lcd_messagetestmain.o: Timer2.h
+.\lcd_messagetestmain.o: ADC.h
+.\lcd_messagetestmain.o: OS.h
+.\lcd_messagetestmain.o: ADCSWTrigger.h
+.\lcd_messagetestmain.o: C:\Keil\ARM\ARMCC\bin\..\include\stdlib.h
